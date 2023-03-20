@@ -13,12 +13,12 @@ This code requires the following packages:
 
 To install these packages, run:
 
-pip install scikit-learn pandas
+	pip install scikit-learn pandas
 
 Usage
 To run the code, simply clone the repository and run the ‘iris_classification.py’ file:
 
-python iris_classification.py
+	python iris_classification.py
 
 This will train a Naive Bayes model on the iris data set and output the accuracy of the model on a held-out test set.
 
